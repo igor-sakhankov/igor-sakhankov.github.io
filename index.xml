@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Igor Sakhankov</title>
+    <link>https://igor-sakhankov.github.io/</link>
+    <description>Recent content on Igor Sakhankov</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 06 Feb 2021 20:59:32 +0100</lastBuildDate><atom:link href="https://igor-sakhankov.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Release It! (By Michael T. Nygard)</title>
+      <link>https://igor-sakhankov.github.io/posts/reviews/release-it/</link>
+      <pubDate>Sat, 06 Feb 2021 20:59:32 +0100</pubDate>
+      
+      <guid>https://igor-sakhankov.github.io/posts/reviews/release-it/</guid>
+      <description>Release it! (book review)    Long story short: I recommend reading this book to every software engineer.
+Content    The book consists of 4 parts, each of them starts with interesting case studies: real-life example about sleepless nights, systems crashes, and millions of dollars losses. These stories help you take advice, patterns, and practices more seriously.
+The first part is about improving system stability: how to ensure external integration does not break your system, how to ensure that failure of one component does not cause cascade failure of the whole system, how to survive peaks of load etc.</description>
+    </item>
+    
+  </channel>
+</rss>
